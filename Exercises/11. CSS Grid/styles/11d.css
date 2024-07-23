@@ -1,0 +1,80 @@
+p{
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+.griddy{
+  display: grid;
+  grid-template-columns: 200px  200px 200px;
+  column-gap: 20px;
+}
+
+.user-profile{
+  width: 200px;
+  margin-left: 5px;
+  margin-right: 5px;
+  box-shadow: 0px 0px 5px rgb(0, 0, 0, 0.2);
+  border-radius: 2px;
+  align-items: center;
+}
+
+.user-picture-row{
+  align-items: center;
+  width: 200px;
+  height: 250px;
+  margin-bottom: 10px;
+}
+
+.user-picture{
+  width: 200px;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+  margin-bottom: 5px;
+}
+
+.name{
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.mutual-friends-row{
+  display: grid;
+  grid-template-columns: 36px 1fr;
+  column-gap: 5px;
+  align-items: center;
+  margin-left: 8px;
+  margin-bottom: 10px;
+
+}
+
+.mutual-friend-picture{
+  width: 36px;
+  height: 36px;
+  vertical-align: middle;
+  object-fit: cover;
+  border-radius: 72px;
+  margin-right: 8px;
+}
+
+.number-mutual-friends{
+  color: grey;
+}
+
+.add-friend-button{
+  background-color: rgb(76, 118, 201);
+  color: white;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 18px;
+  padding-left: 18px;
+  margin-left: 5px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}

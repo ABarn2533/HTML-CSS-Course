@@ -1,0 +1,23 @@
+.YouTube-music-install{
+  background-color: rgb(26, 26, 26);
+  width: 340px;
+  height: 110px;
+  padding-left: 20px;
+}
+
+.title{
+  color: white;
+  font-size: 20px;
+  margin-bottom: 5px;
+  padding-top: 16px;
+}
+
+.description{
+  color: grey;
+}
+
+p{
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}

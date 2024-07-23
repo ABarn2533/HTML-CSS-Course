@@ -1,0 +1,33 @@
+
+.search-box{
+  width: 500px;
+  border-color: rgb(99, 99, 99);
+  border-width: 2px;
+  border-style: solid;
+  font-size: 20px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-right: 16 px;
+  padding-left: 16px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+p{
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+
+button{
+  background-color: blue;
+  color: white;
+  border: none;
+  padding-left: 140px;
+  padding-right: 140px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 280px;
+  margin-bottom: 20px;
+  margin-top: 0px;
+
+}

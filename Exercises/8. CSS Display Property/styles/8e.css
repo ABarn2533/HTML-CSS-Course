@@ -1,0 +1,48 @@
+.request{
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.pickup-box{
+  display: block;
+  border: none;
+  background-color: rgb(237, 237, 237);
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  width: 200px;
+  margin-bottom: 5px;
+}
+
+.destination-box{
+  display: block;
+  border: none;
+  background-color: rgb(237, 237, 237);
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  width: 200px;
+  margin-bottom: 40px;
+}
+
+.request-button{
+  display: inline-block;
+  background-color: black;
+  color:white;
+  height: 50px;
+  width: 126px;
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+.schedulue-later-button{
+  border: none;
+  background-color: rgb(237, 237, 237);
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+
+}

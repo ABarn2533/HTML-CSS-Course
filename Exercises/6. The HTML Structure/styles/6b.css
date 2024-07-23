@@ -1,0 +1,16 @@
+p{
+  font-family: Arial;
+  font-weight: bold;
+}
+
+.deals{
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.end-date{
+  color: red;
+  font-size: 18px;
+  font-style: italic;
+  margin-top: 0;
+}

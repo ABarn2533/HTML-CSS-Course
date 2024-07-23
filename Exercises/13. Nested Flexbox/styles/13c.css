@@ -1,0 +1,60 @@
+div{
+  font-family: Arial;
+}
+
+.container{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 410px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, .15);
+  border-radius: 4px;
+  margin-top: 20px;
+  margin-left: 20px;
+
+}
+
+.inbox-header{
+  height: 24px;
+  color: rgb(120, 120, 120);
+
+}
+
+.email-preview{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.left-side{
+  margin-right: 15px;
+}
+
+.profile-picture{
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+}
+
+.right-side{
+  flex: 1;
+}
+
+.title-bar{
+  display: flex; 
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3px;
+}
+
+.subtitle{
+  margin-bottom: 5px;
+}
+
+
+

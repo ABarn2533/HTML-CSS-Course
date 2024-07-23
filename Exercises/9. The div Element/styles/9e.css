@@ -1,0 +1,48 @@
+.nate-facebook-profile{
+  width: 500px;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0px 0px 5px rgb(0, 0, 0, 0.2);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.big-brain-nate{
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 100px;
+  vertical-align: middle;
+  margin-right: 20px;
+}
+
+.tweet-box{
+  border:none;
+  color: rgb(200, 200, 200);
+  font-size: 25px;
+  vertical-align: middle;
+}
+
+.tweet-button{
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 18px;
+  font-weight: bold;
+  font-size: 15px;
+  vertical-align: middle;
+  cursor: pointer;
+  margin-left: 8px;
+  transition: box-shadow 0.15s;
+}
+
+.tweet-button:hover{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
